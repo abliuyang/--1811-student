@@ -13,3 +13,6 @@ public class SpringCloud_Config {
 		SpringApplication.run(SpringCloud_Config.class, args);
 	}
 }
+public static void main(String[] arg){
+  system out ptintln(“这是真正的联系”)！！！
+}
